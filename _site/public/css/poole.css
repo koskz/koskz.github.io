@@ -45,6 +45,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
@@ -168,6 +169,9 @@ pre {
   word-break: break-all;
   word-wrap: break-word;
   background-color: #f9f9f9;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 pre code {
   padding: 0;
@@ -248,6 +252,9 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 
 
@@ -302,7 +309,18 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
+  font-family: 'PT Serif', serif;
   margin-bottom: 4em;
+}
+
+.page,
+.post p {
+  font-size: 20px;
+}
+
+.page,
+.post ul {
+  font-size: 20px;
 }
 
 /* Blog post or page title */
@@ -326,6 +344,7 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
+  font-family: 'PT Serif', serif;
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;

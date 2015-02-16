@@ -3,28 +3,14 @@ layout: page
 title: Обо мне
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+*Stay hungry. Stay foolish. — Steve Jobs*
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Учусь, читаю, смотрю фильмы и слушаю музыку. Иногда играю в Assassin's Creed Unity.
 
-There are currently two themes built on Poole:
+### Последняя прочитанная книга
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Michel Strogoff *— Jules Verne*
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Последнее просмотренное кино
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+The Imitation Game
