@@ -4,7 +4,7 @@
  <title>Striddle</title>
  <link href="http://striddle.ru/atom.xml" rel="self"/>
  <link href="http://striddle.ru/"/>
- <updated>2015-02-16T13:57:14+03:00</updated>
+ <updated>2015-02-16T14:05:20+03:00</updated>
  <id>http://striddle.ru</id>
  <author>
    <name>Kostya</name>
@@ -17,7 +17,7 @@
    <link href="http://striddle.ru/2015/02/16/hello/"/>
    <updated>2015-02-16T00:00:00+03:00</updated>
    <id>http://striddle.ru/2015/02/16/hello</id>
-   <content type="html">&lt;p&gt;Здесь просто вступление. Этот блог работает на Jekyll и находится на Github, если кому-нибудь вдруг станет интересно. Заметки и мысли скоро появятся. Надеюсь, будут полезными и занятными.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Здесь просто вступление. Этот блог работает на Jekyll и находится на Github, если кому-нибудь вдруг  интересно. Заметки и мысли скоро появятся. Надеюсь, будут полезными и занятными.&lt;/p&gt;
 
 &lt;p&gt;А пока можете писать мне в Telegram &lt;a href=&quot;http://telegram.me/kozak&quot;&gt;@kozak&lt;/a&gt;. Буду рад.&lt;/p&gt;
 </content>
