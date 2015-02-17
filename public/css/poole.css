@@ -422,3 +422,9 @@ a.pagination-item:hover {
     max-width: 100%;
   }
 }
+
+@media (max-width: 30rem) {
+  img {
+    max-width: 100%;
+  }
+}
