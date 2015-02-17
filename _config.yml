@@ -10,6 +10,7 @@ title:            Striddle
 tagline:          'Заметки на полях.'
 description:      'Заметки на полях.'
 url:              http://striddle.ru
+permalink: 		  date
 
 author:
   name:           'Kostya'
